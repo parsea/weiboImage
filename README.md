@@ -1,2 +1,3 @@
 # weiboImage
 新浪微博自动变换背景图
+直接下载weiboImage.crx拖动到浏览器里面就可以安装上了
