@@ -27,4 +27,4 @@ function changeImg(){
 	oDiv[0].style.backgroundImage="url("+imgSrc+")";
 }
 
-setInterval(changeImg,3000);
+setInterval(changeImg,10000);
